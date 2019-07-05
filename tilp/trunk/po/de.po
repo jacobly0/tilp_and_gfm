@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tilp2 1.19\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-01 02:00+0100\n"
+"POT-Creation-Date: 2019-07-05 07:39+0200\n"
 "PO-Revision-Date: 2016-11-18 19:49+0300\n"
 "Last-Translator: Andreas B. Mundt <andi@debian.org>\n"
 "Language-Team: German <debian-l10n-german@lists.debian.org>\n"
@@ -1150,38 +1150,46 @@ msgid "TI-Nspire"
 msgstr "TI-Nspire"
 
 #: ../builder/device.ui.h:33
+msgid "TI-Nspire Lab Cradle"
+msgstr "TI-Nspire Lab Cradle"
+
+#: ../builder/device.ui.h:34
+msgid "TI-Nspire CX II"
+msgstr "TI-Nspire CX II"
+
+#: ../builder/device.ui.h:35
 msgid "Communication Settings"
 msgstr "Kommunikationseinstellungen"
 
-#: ../builder/device.ui.h:34
+#: ../builder/device.ui.h:36
 msgid "Cable:"
 msgstr "Kabel:"
 
-#: ../builder/device.ui.h:35
+#: ../builder/device.ui.h:37
 msgid "Port:"
 msgstr "Port:"
 
-#: ../builder/device.ui.h:36
+#: ../builder/device.ui.h:38
 msgid "Calc:"
 msgstr "Taschenrechner:"
 
-#: ../builder/device.ui.h:37
+#: ../builder/device.ui.h:39
 msgid "Timeout:"
 msgstr "Zeitüberschreitung:"
 
-#: ../builder/device.ui.h:38
+#: ../builder/device.ui.h:40
 msgid "Delay:"
 msgstr "Verzögerung:"
 
-#: ../builder/device.ui.h:39
+#: ../builder/device.ui.h:41
 msgid "Timeout value in tenth of seconds."
 msgstr "Timeout-Wert in Zehntelsekunden."
 
-#: ../builder/device.ui.h:40
+#: ../builder/device.ui.h:42
 msgid "Inter-bit delay for serial/parallel link cables."
 msgstr "Inter-Bit-Verzögerung für serielle/parallele Verbindungen."
 
-#: ../builder/device.ui.h:41
+#: ../builder/device.ui.h:43
 msgid ""
 "If checked, TiLP will scan USB devices at startup and will use the first "
 "device found."
@@ -1189,23 +1197,23 @@ msgstr ""
 "Wenn aktiviert, wird TiLP beim Start die USB-Geräte abfragen und das erste "
 "gefundene Gerät verwenden."
 
-#: ../builder/device.ui.h:42
+#: ../builder/device.ui.h:44
 msgid "USB scan at startup"
 msgstr "USB-Abfrage beim Start"
 
-#: ../builder/device.ui.h:43
+#: ../builder/device.ui.h:45
 msgid "Settings"
 msgstr "Einstellungen"
 
-#: ../builder/device.ui.h:44
+#: ../builder/device.ui.h:46
 msgid "Don't know which device you have ? Click =>"
 msgstr "Sie wissen nicht, welches Gerät sie besitzen? Click =>"
 
-#: ../builder/device.ui.h:45
+#: ../builder/device.ui.h:47
 msgid "Probe for attached devices..."
 msgstr "Teste angeschlossene Geräte..."
 
-#: ../builder/device.ui.h:46
+#: ../builder/device.ui.h:48
 msgid "Double-click a line to update settings."
 msgstr "Doppel-Klick einer Zeile zum Update der Einstellungen."
 

@@ -165,6 +165,38 @@
         <col id="0" translatable="yes">TI-Nspire</col>
         <col id="1" translatable="no">nspire</col>
       </row>
+      <row>
+        <col id="0" translatable="yes">TI-Nspire Lab Cradle</col>
+        <col id="1" translatable="no">nspirecradle</col>
+      </row>
+      <row>
+        <col id="0" translatable="yes">TI-Nspire CX II</col>
+        <col id="1" translatable="no">cxii</col>
+      </row>
+      <row>
+        <col id="0" translatable="no">CBL</col>
+        <col id="1" translatable="no">cbl</col>
+      </row>
+      <row>
+        <col id="0" translatable="no">CBR</col>
+        <col id="1" translatable="no">cbr</col>
+      </row>
+      <row>
+        <col id="0" translatable="no">CBR2</col>
+        <col id="1" translatable="no">cbr2</col>
+      </row>
+      <row>
+        <col id="0" translatable="no">CBL2</col>
+        <col id="1" translatable="no">cbl2</col>
+      </row>
+      <row>
+        <col id="0" translatable="no">LabPro</col>
+        <col id="1" translatable="no">labpro</col>
+      </row>
+      <row>
+        <col id="0" translatable="no">TI-Presenter</col>
+        <col id="1" translatable="no">presenter</col>
+      </row>
     </data>
   </object>
   <object class="GtkDialog" id="device_dbox">
