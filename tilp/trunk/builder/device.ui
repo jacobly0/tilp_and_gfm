@@ -134,6 +134,10 @@
         <col id="1" translatable="no">ti84pt</col>
       </row>
       <row>
+        <col id="0" translatable="yes">TI-82 Advanced Edition Python</col>
+        <col id="1" translatable="no">ti82aep</col>
+      </row>
+      <row>
         <col id="0" translatable="yes">TI-85</col>
         <col id="1" translatable="no">ti85</col>
       </row>
